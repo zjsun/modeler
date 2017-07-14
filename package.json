@@ -1,0 +1,19 @@
+{
+  "name": "modeler",
+  "main": "./lib/modeler",
+  "version": "0.0.1",
+  "description": "An app modeler based on Atom",
+  "keywords": [
+    "app builder","app modeler","mdd based on Atom"
+  ],
+  "activationCommands": {
+
+  },
+  "repository": "https://github.com/atom/modeler",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
